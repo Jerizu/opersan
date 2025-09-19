@@ -27,6 +27,10 @@
     content: "\f017";
 }
 
+.menu li a.Portal:before {
+    content: "\f2c2";
+}
+
 .menu li a.Canal:before {
     content: "\f19c";
 }
