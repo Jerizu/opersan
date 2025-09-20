@@ -335,7 +335,7 @@ button:hover{
         background-image: url("https://github.com/Jerizu/almaviva/blob/main/arquivos/animations/Male%20Call%20center%20Operator.gif?raw=true");
         background-repeat: no-repeat;
         background-size: cover;
-        height: 40em;
+        height: 100%;
         width: 40em;
         font-size:xx-small;
         text-align: center;
@@ -360,7 +360,7 @@ button:hover{
         background-image: url("https://github.com/Jerizu/almaviva/blob/main/arquivos/animations/Male%20Call%20center%20Operator.gif?raw=true");
         background-repeat: no-repeat;
         background-size: cover;
-        height: 40em;
+        height: 100%;
         width: 40em;
         font-size:xx-small;
         text-align: center;
@@ -439,3 +439,4 @@ button:hover{
     width: 200px;
     }  
 }
+
