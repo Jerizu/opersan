@@ -10,8 +10,10 @@ body {
     display: flex; /* Flexbox para layout */
     flex-direction: column;
     font-family: Arial, sans-serif;
-}
 
+    /* ADICIONE ESTA LINHA ABAIXO */
+    overscroll-behavior-y: contain; /* Impede o pull-to-refresh no eixo vertical */
+}
 /* O menu permanece no topo e ocupa toda a largura */
 .menu {
     width: 100%;
@@ -129,3 +131,4 @@ iframe {
         margin: 10px;
     }
 }
+
